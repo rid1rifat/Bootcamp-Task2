@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+   
+
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 35px;
+}
+.section{
+    display:block;
+    height: 250px;
+    background-color: aqua;
+    
+}
+#div1{
+    background-color: bisque;
+    margin: 20px 20px;
+    
+}
+#submit{
+display: block;
+}
